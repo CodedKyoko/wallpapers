@@ -29,7 +29,7 @@ in
     '';
 
     meta = {
-      description = "ferns-personal-wallpaper-collection";
+      description = "lilys-personal-wallpaper-collection";
       license = lib.licenses.mit;
       platforms = lib.platforms.all;
     };
