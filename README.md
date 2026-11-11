@@ -55,17 +55,6 @@ We can invoke the package using a relative path a little like this.
 ## Credits
 This work is largely based on the works of [42willow/wallpapers](https://github.com/42willow/wallpapers) and [NotAShelf/wallpkgs](https://github.com/NotAShelf/wallpkgs), although is significantly less clever or smart in execution. So a big thanks to 42willow and NotAShelf :3
 
-### Wallpapers
-The wallpapers in this collection are sourced from artworks by these artists:
-- T5 - [twitter](https://x.com/thornsdance) [pixiv](https://www.pixiv.net/en/users/4819066) [artstation](https://www.artstation.com/thornsdance)
-- Cogecha - [twitter](https://x.com/BARD713) [pixiv](https://www.pixiv.net/en/users/12845810)
-- Shapoko - [twitter](https://x.com/shapoco) [pixiv](https://www.pixiv.net/en/users/24431887) [bluesky](https://bsky.app/profile/shapoco.net) [website](https://www.shapoco.net/)
-- Neko - [twitter](https://x.com/Neko_4cfantasy) [pixiv](https://www.pixiv.net/en/users/2600911)
-- inee - [twitter](https://x.com/inee) [pixiv](https://www.pixiv.net/en/users/45059236)
-- Datsha - [twitter](https://x.com/S2_Datsha) [pixiv](https://www.pixiv.net/en/users/45015081)
-
-All amazing artists with lots of beautiful background material (if any of these credits are incorrect, please correct me)
-
 ### Tooling used
 - [lutgen](https://github.com/ozwaldorf/lutgen-rs)
 - [oxipng](https://github.com/oxipng/oxipng)
