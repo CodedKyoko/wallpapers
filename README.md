@@ -1,5 +1,7 @@
-# Fern's Wallpaper Collection
+# Lilys's Wallpaper Collection
 A collection of silly wallpapers I like from across the internet
+
+(Credits go to my beautiful girlfriend fern for making this system for me <3)
 
 ## Usage
 
